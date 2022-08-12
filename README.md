@@ -24,12 +24,14 @@ We are using bits and pieces of the following electronic textbooks, available to
 ![Practical](https://user-images.githubusercontent.com/3371682/184220107-220dc950-73fc-4bca-9253-c96014ad2353.png) | ![Data](https://learning.oreilly.com/covers/urn:orm:book:9780750650861/400w/)
 :------------------:|:------------------:
 [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/?sso_link=yes&sso_link_from=mcgill-university) | [Data Analysis](https://learning.oreilly.com/library/view/data-analysis-for/9780750650861/)
+:------------------:|:------------------:
+Book `D`| Book `H`
 
 ## Session materials
 
 ### Optional readings
 
-- S1: Up to and including Part 3 of Hume, from the very beginning of the book until the end of Chapter 15
+- S1: Up to and including Part 3 of `H`, from the very beginning of the book until the end of Chapter 15
 
 ### Example codes
 
@@ -52,14 +54,14 @@ We are using bits and pieces of the following electronic textbooks, available to
 
 - (data) *model*: a description of a database that is not DBMS-specific; needs to map to a schema upon implementation
 - *relational modelling*: the design of a model in terms identifying *attributes* and grouping them into *tables* 
-- *entity-relationship modelling* (ER): identifying entities (conceptually related groups of attributes) and their relationships (associations between the attributes of the entities); see Figure 8.5 of Hume for an example
+- *entity-relationship modelling* (ER): identifying entities (conceptually related groups of attributes) and their relationships (associations between the attributes of the entities); see Figure 8.5 of `H` for an example
 - *type* of entity: much like *class* in OOP
 - *occurence* of type: much like an (object) *instance* in OOP
-- *degree* of relationship: multiplicities at the end points, `1:1`, `1:many`, `many:many`, see Figure 9.2 of Hume for an example)
-- *multiplicity* notation: `1`, `N`, `M`, `1..1`, `0..1`, `0..*`, `1..*` (see Figure 9.5 of Hume for an example)
+- *degree* of relationship: multiplicities at the end points, `1:1`, `1:many`, `many:many`, see Figure 9.2 of `H` for an example)
+- *multiplicity* notation: `1`, `N`, `M`, `1..1`, `0..1`, `0..*`, `1..*` (see Figure 9.5 of `H` for an example)
 - *recursive* relationship: a relationship from an entity to itself
-- *decomposition* of `many:many`: create an intermediary entity to associate the sides (see Figure 10.2 of Hume for an example)
-- *connection trap*: a part of an ER diagram that allows for an interpretation error (such as a *fan trap* or a *chasm trap*; see Chapter 11 of Hume for examples and definitions)
+- *decomposition* of `many:many`: create an intermediary entity to associate the sides (see Figure 10.2 of `H` for an example)
+- *connection trap*: a part of an ER diagram that allows for an interpretation error (such as a *fan trap* or a *chasm trap*; see Chapter 11 of `H` for examples and definitions)
 
 - *table*: a definition of what *columns* (attributes) the table stores for each *row* (record) stored in that table
 - *attribute*: a property of a record that holds a value of a specified format (data type)
