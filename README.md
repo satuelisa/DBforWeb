@@ -25,9 +25,39 @@ We are using bits and pieces of the following electronic textbooks, available to
 :------------------:|:------------------:
 [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/?sso_link=yes&sso_link_from=mcgill-university) | [Data Analysis](https://learning.oreilly.com/library/view/data-analysis-for/9780750650861/)
 
-## Example codes
+### Reading schedule
+
+- S1: Up to Part 2 of Hume (from the very beginning of the book)
+
+## Session contents
+
+### Example codes
 
 - S1 [Replit demo](https://replit.com/@satuelisa/Intro?v=1)
 - S1 [Python Colab demo](https://colab.research.google.com/github/satuelisa/DBforWeb/blob/main/DBW_01.ipynb)
 
-## Concepts
+### Concepts
+
+- program-data independence
+- database: achieve consistency, provide structure, avoid redundancy, limit unnecessary sharing, make data usable and accessible (define the scope; one or many?)
+- sharing: purposeful replication of data in two or more places
+- redundancy: unnecessary replication of data in two or more places
+- database management system (DBMS): structuring, validation, recovery, monitoring, security, mapping of *schemas*
+- *global* schema: what data is available, how is it stored and accessed
+- *internal* schema: hardware-level implementation of the storage structure
+- *conceptual* schema: data description (content and constraints)
+- *external* schema: what an application sees when it accesses a database (format, visibility)
+- (data) *model*: a description of a database that is not DBMS-specific; needs to map to a schema upon implementation
+- *relational modelling*: the design of a model in terms of *tables* 
+- *table*: a definition of what *columns* (attributes) the table stores for each *row* (record) stored in that table
+- *attribute*: a property of a record that holds a value of a specified format (data type)
+- *normalized* table: each attribute only holds a single value (rows are repeated to accomodate multiple values; for example, products in a shopping basket)
+- *record*: a unique combination of attribute values within a table
+- *null*: a value that is assigned to an attribute that is unknown or undefined in some way
+- *determinant*: attribute X is determined by (depends on) attribute Y is duplicate values of X are always associated to one same value of Y  
+- *determinancy*: a diagram that places an arrow from Y to X if and only if Y determines X
+- *composite* determinancy: a combination of attributes determines another attribute (draw boxes to group the codeterinants in the diagram)
+- *transitive* determinancy: Z determines Y and Y determines X, so Z transitively determines X (draw a longer arrow from Z to X to show this in a diagram, if so desired)
+- *superfluous*: an attribute X is only determined by Y so that knowing Y already narrows down the value of X
+ - key: a unique *identifier* for a record (primary, secondary)
+
