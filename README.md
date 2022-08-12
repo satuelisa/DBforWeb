@@ -23,8 +23,7 @@ We are using bits and pieces of the following electronic textbooks, available to
 ![Practical](https://user-images.githubusercontent.com/3371682/184220107-220dc950-73fc-4bca-9253-c96014ad2353.png) | ![Data](https://learning.oreilly.com/covers/urn:orm:book:9780750650861/400w/)
 :------------------:|:------------------:
 [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/?sso_link=yes&sso_link_from=mcgill-university) | [Data Analysis](https://learning.oreilly.com/library/view/data-analysis-for/9780750650861/)
-:------------------:|:------------------:
-Book `D`| Book `H`
+Book `D` | Book `H`
 
 ## Session materials
 
