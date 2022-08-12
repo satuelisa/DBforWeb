@@ -4,7 +4,6 @@ Course material related to databases, intended for in-training web developers.
 
 ## Textbooks
 
-
 We are using bits and pieces of the following electronic textbooks, available to registered students through the McGill Library.
 
 ### SQL
@@ -76,3 +75,7 @@ Book `D`| Book `H`
 - *superfluous*: an attribute X is only determined by Y so that knowing Y already narrows down the value of X
 - (primary) key: a unique *identifier* for a record; in a dependency diagram, it is the "root" of the dependency tree; if there are several candidates, one is assigned explicitly as the key of the table
 - table definition: `tableName (attributeName, secondAttributeName, ...)` (some like to underline or otherwise highlight the attribute that serves as the primary key)
+
+## Assignments
+
+The participation journal and the weekly reflections are detailed at [Overleaf](https://www.overleaf.com/read/rtppdwxqwscb) in addition to being incorporated in `myCourses` LMS on which the classes are held. All submissions must be done through the LMS, respecting the deadlines as shown there.
