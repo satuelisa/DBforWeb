@@ -29,7 +29,7 @@ We are using bits and pieces of the following electronic textbooks, available to
 
 ### Optional readings
 
-- S1: Up to and including Part 3 of Hume, from the very beginning of the book until Chapter 16
+- S1: Up to and including Part 3 of Hume, from the very beginning of the book until the end of Chapter 15
 
 ### Example codes
 
