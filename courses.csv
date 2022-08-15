@@ -1,0 +1,72 @@
+Code,Number,Title,Credit amount,Credit type
+YCBS,255,Statistical Machine Learning,8,CEUs
+YCBS,256,Data Science for Business Decisions,8,CEUs
+YCBS,257,Data at Scale,9,CEUs
+YCBS,258,Practical Machine Learning,9,CEUs
+YCBS,260,Statistics for Business Decision Making,8,CEUs
+YCBS,261,Data Analytics Fundamentals,8,CEUs
+YCBS,262,Leading Data Science Projects & Teams,8,CEUs
+YCBS,299,Data Science Capstone Project,9,CEUs
+YCIT,17,Cloud Computing Fundamentals,7.5,CEUs
+YCIT,18,Cloud Networking and Security,7.5,CEUs
+YCIT,19,Cloud Architecture,9,CEUs
+YCIT,20,Advanced Cloud Architecture,9,CEUs
+YCIT,21,DevOps Practices and Tools,9,CEUs
+YCIT,22,Site Reliability Engineering (SRE),9,CEUs
+YCNG,228,Predictive & Classification Modelling,6,CEUs
+YCNG,229,Neural Networks & Deep Learning,6,CEUs
+YCNG,230,Intelligent Agents & Reinforcement Learning,6,CEUs
+YCNG,231,Deep Learning for Computer Vision,6,CEUs
+YCNG,232,Natural Language Processing Fundamentals,6,CEUs
+YCNG,233,Time Series Analysis Fundamentals,6,CEUs
+YCNG,234,Internet of Things,5,CEUs
+YCNG,235,Recommender Systems,6,CEUs
+CCCS,300,Programming Techniques 1,3,credits
+CCCS,301,Programming Techniques 2,3,credits
+CCCS,310,Web Development,3,credits
+CCCS,315,Data Structures and Algorithms,3,credits
+CCCS,321,Operating Systems Administration,3,credits
+CCCS,325,Mobile Application Development,3,credits
+CCCS,330,Database Design and Business Applications Development,3,credits
+CCCS,425,Web Services,3,credits
+CCCS,431,Networking Fundamentals,3,credits
+CCCS,450,Access Control and Defence Methods,3,credits
+CCCS,451,Communication and Network Security,3,credits
+CCCS,452,Security Program Architecture and Engineering,3,credits
+CCCS,453,Security Risk Management and Governance,3,credits
+CCCS,454,Security Incident Response and Recovery,3,credits
+CCCS,455,Intrusion Testing and Security Assessment,3,credits
+CCS2,505,Programming for Data Science,3,credits
+CMIS,422,Information System Security,3,credits
+CMIS,530,Digital Analytics and Targeting,3,credits
+CMIS,543,Digital Customer Experience,3,credits
+CMIS,544,"Digital Marketing Automation, Planning and Technology",3,credits
+CMIS,545,Cloud Computing Architecture,3,credits
+CMIS,549,Digital Media and Search Engine Optimization,3,credits
+CMIS,550,Fundamentals of Big Data,3,credits
+CMS2,500,Mathematics for Management,3,credits
+CMS2,527,Business Intelligence and Analytics,3,credits
+CMS2,529,Introduction to Data Analytics,3,credits
+CBUS,4,Special Topics in Information Technology,14,credits
+YCIT,1,HTML & CSS,4,CEUs
+YCIT,2,CSS Fundamentals,4,CEUs
+YCIT,3,JavaScript Fundamentals,4,CEUs
+YCIT,4,JavaScript Libraries,4,CEUs
+YCIT,5,CSS Libraries,4,CEUs
+YCIT,6,TypeScript,4,CEUs
+YCIT,7,JavaScript Frameworks,4,CEUs
+YCIT,8,Database Design Essentials,4,CEUs
+YCIT,9,Database for the Web,9,CEUs
+YCIT,10,Advanced Database Techniques,4,CEUs
+YCIT,11,Object-Oriented Programming Concepts,4,CEUs
+YCIT,12,Node.js Fundamentals,4,CEUs
+YCIT,13,Web Application Development with .NET Core,4,CEUs
+YCIT,14,PHP Fundamentals,4,CEUs
+YCIT,15,Web Security Fundamentals,3,CEUs
+YCIT,16,DevOps and Deployment for Web Development,3,CEUs
+YCBS,210,Comprehensive Business Analysis,16,CEUs
+YCBS,242,Applied Business Analysis,4.5,CEUs
+YCBS,243,Introduction to Business Analytics and Data Modelling,4,CEUs
+YCBS,216,Interpersonal Skills for Professionals,4.5,CEUs
+YCBS,221,Leading Sustainable Change,6,CEUs
+YCCM,208,Professional Writing in Business,4.5,CEUs
