@@ -60,12 +60,12 @@ Book `D` | Book `H`
 
 ### Session 1
 
-- [Replit demo](https://replit.com/@satuelisa/S1Creation)
+- [Replit demo](https://replit.com/@satuelisa/S1Creation#main.sql)
 - [Python Colab demo](https://colab.research.google.com/github/satuelisa/DBforWeb/blob/main/DBW_01.ipynb)
 
 ### Session 2
 
-- [Replit demo](https://replit.com/@satuelisa/S2Queries)
+- [Replit demo](https://replit.com/@satuelisa/S2Queries#main.sql)
 - [Python Colab demo](https://colab.research.google.com/github/satuelisa/DBforWeb/blob/main/DBW_02.ipynb)
 
 ## Concepts
