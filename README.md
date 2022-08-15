@@ -11,12 +11,14 @@ We are using bits and pieces of the following electronic textbooks, available to
 ![Learn SQL](https://learning.oreilly.com/covers/urn:orm:book:9781492057604/200w/) | ![Cook SQL](https://learning.oreilly.com/covers/urn:orm:book:9781492077435/200w/) | ![Pocket](https://learning.oreilly.com/covers/urn:orm:book:9781492090397/200w/)
 :------------------:|:------------------:|:------------------:
 [Learning SQL](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/?sso_link=yes&sso_link_from=mcgill-university) | [SQL Cookbook](https://learning.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/?sso_link=yes&sso_link_from=mcgill-university) | [SQL Pocket Guide](https://learning.oreilly.com/library/view/sql-pocket-guide/9781492090397/?sso_link=yes&sso_link_from=mcgill-university)
+Book `L` | Book `C` | Book `P`
 
 ### NoSQL
 
 ![MongoDB](https://learning.oreilly.com/covers/urn:orm:book:9781839210648/200w/) | ![MongoNode](https://learning.oreilly.com/covers/urn:orm:book:9781783987306/200w/) | ![Neo4j](https://learning.oreilly.com/covers/urn:orm:book:9781784393441/200w/)
 :------------------:|:------------------:|:------------------:
 [MongoDB Fundamentals](https://learning.oreilly.com/library/view/mongodb-fundamentals/9781839210648/?sso_link=yes&sso_link_from=mcgill-university) | [Web Development with MongoDB and Node.js](https://learning.oreilly.com/library/view/web-development-with/9781783987306/?sso_link=yes&sso_link_from=mcgill-university) | [Neo4J Graph Data Modelling](https://learning.oreilly.com/library/view/neo4j-graph-data/9781784393441/?sso_link=yes&sso_link_from=mcgill-university)
+Book `M` | Book `N` | Book `J` 
 
 ### Additional
 
@@ -25,16 +27,46 @@ We are using bits and pieces of the following electronic textbooks, available to
 [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/?sso_link=yes&sso_link_from=mcgill-university) | [Data Analysis](https://learning.oreilly.com/library/view/data-analysis-for/9780750650861/)
 Book `D` | Book `H`
 
-## Session materials
+## Optional readings
 
-### Optional readings
+### Session 1
 
-- S1: Up to and including Part 3 of `H`, from the very beginning of the book until the end of Chapter 15
+- Up to and including Part 3 of `H`, from the very beginning of the book until the end of Chapter 15
+- Chapter 2 of `L`: Creating And Populating A Database
+- Chapter 2 of `D`: Creating Your First Database And Table 
+- Chapter 5 of `P`: Creating, Updating, and Deleting
 
-### Example codes
+### Session 2
 
-- S1 [Replit demo](https://replit.com/@satuelisa/Intro?v=1)
-- S1 [Python Colab demo](https://colab.research.google.com/github/satuelisa/DBforWeb/blob/main/DBW_01.ipynb)
+- Chapter 1 of `C`: Retrieving Records
+- Chapter 2 of `C`: Sorting Query Results
+- Chapter 3 of `L`: Query Primer
+- Chapter 4 of `P`: Querying Basics
+- Chapter 3 of `D`: Beginning Data Exploration with `SELECT`
+
+### Session 3
+
+- Chapter 5 of `L`: Querying Multiple Tables
+- Chapter 7 of `D`: Joining Tables in a Relational Database
+- Chapter 3 of `C`: Working With Multiple Tables
+- Chapter 9 of `P`: Working With Multiple Tables And Queries
+
+### Tools and documentation
+
+- [SQLite](https://sqlite.org)
+- [SQLite Command Line Interface](https://sqlite.org/cli.html)
+
+## Example codes
+
+### Session 1
+
+- [Replit demo](https://replit.com/@satuelisa/S1Creation)
+- [Python Colab demo](https://colab.research.google.com/github/satuelisa/DBforWeb/blob/main/DBW_01.ipynb)
+
+### Session 2
+
+- [Replit demo](https://replit.com/@satuelisa/S2Queries)
+- [Python Colab demo](https://colab.research.google.com/github/satuelisa/DBforWeb/blob/main/DBW_02.ipynb)
 
 ## Concepts
 
@@ -74,6 +106,14 @@ Book `D` | Book `H`
 - *superfluous*: an attribute X is only determined by Y so that knowing Y already narrows down the value of X
 - (primary) key: a unique *identifier* for a record; in a dependency diagram, it is the "root" of the dependency tree; if there are several candidates, one is assigned explicitly as the key of the table
 - table definition: `tableName (attributeName, secondAttributeName, ...)` (some like to underline or otherwise highlight the attribute that serves as the primary key)
+
+### Session 2
+
+- conjuntion: two conditions must be both true for the combination to be true (`and`)
+- disjunction: two conditions must both be false for the combination to be false (`or`)  
+- concatenate: combine two string into a single one: `hello` concatenated with `world` is `helloworld` 
+- ascending: increasing order, from lower to higher values
+- descending: decreasing order, from higher to lower values
 
 ## Assignments
 
