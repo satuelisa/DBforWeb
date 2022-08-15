@@ -1,4 +1,4 @@
-Code,Number,Title,Credit amount,Credit type
+Code,Number,Title,Amount,Kind
 YCBS,255,Statistical Machine Learning,8,CEUs
 YCBS,256,Data Science for Business Decisions,8,CEUs
 YCBS,257,Data at Scale,9,CEUs
