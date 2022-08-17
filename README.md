@@ -115,6 +115,10 @@ Book `D` | Book `H`
 - ascending: increasing order, from lower to higher values
 - descending: decreasing order, from higher to lower values
 
+### Session 3
+
+- join: link rows of one table into rows of another table in a specific manner, usually by matching keys in one to keys in another
+
 ## Assignments
 
 The participation journal and the weekly reflections are detailed at [Overleaf](https://www.overleaf.com/read/rtppdwxqwscb) in addition to being incorporated in `myCourses` LMS on which the classes are held. All submissions must be done through the LMS, respecting the deadlines as shown there.
