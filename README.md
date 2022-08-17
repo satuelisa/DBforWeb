@@ -8,6 +8,11 @@ We are using bits and pieces of the following electronic textbooks, available to
 
 ### SQL
 
+![Practical](https://user-images.githubusercontent.com/3371682/184220107-220dc950-73fc-4bca-9253-c96014ad2353.png) | ![Data](https://learning.oreilly.com/covers/urn:orm:book:9780750650861/400w/)
+:------------------:|:------------------:
+[Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/?sso_link=yes&sso_link_from=mcgill-university) | [Data Analysis](https://learning.oreilly.com/library/view/data-analysis-for/9780750650861/)
+Book `D` | Book `H`
+
 ![Learn SQL](https://learning.oreilly.com/covers/urn:orm:book:9781492057604/200w/) | ![Cook SQL](https://learning.oreilly.com/covers/urn:orm:book:9781492077435/200w/) | ![Pocket](https://learning.oreilly.com/covers/urn:orm:book:9781492090397/200w/)
 :------------------:|:------------------:|:------------------:
 [Learning SQL](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/?sso_link=yes&sso_link_from=mcgill-university) | [SQL Cookbook](https://learning.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/?sso_link=yes&sso_link_from=mcgill-university) | [SQL Pocket Guide](https://learning.oreilly.com/library/view/sql-pocket-guide/9781492090397/?sso_link=yes&sso_link_from=mcgill-university)
@@ -20,14 +25,7 @@ Book `L` | Book `C` | Book `P`
 [MongoDB Fundamentals](https://learning.oreilly.com/library/view/mongodb-fundamentals/9781839210648/?sso_link=yes&sso_link_from=mcgill-university) | [Web Development with MongoDB and Node.js](https://learning.oreilly.com/library/view/web-development-with/9781783987306/?sso_link=yes&sso_link_from=mcgill-university) | [Neo4J Graph Data Modelling](https://learning.oreilly.com/library/view/neo4j-graph-data/9781784393441/?sso_link=yes&sso_link_from=mcgill-university)
 Book `M` | Book `N` | Book `J` 
 
-### Additional
-
-![Practical](https://user-images.githubusercontent.com/3371682/184220107-220dc950-73fc-4bca-9253-c96014ad2353.png) | ![Data](https://learning.oreilly.com/covers/urn:orm:book:9780750650861/400w/)
-:------------------:|:------------------:
-[Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/?sso_link=yes&sso_link_from=mcgill-university) | [Data Analysis](https://learning.oreilly.com/library/view/data-analysis-for/9780750650861/)
-Book `D` | Book `H`
-
-## Optional readings
+## Recommended optional readings
 
 ### Session 1
 
@@ -67,6 +65,10 @@ Book `D` | Book `H`
 
 - [Replit demo](https://replit.com/@satuelisa/S2Queries#main.sql)
 - [Python Colab demo](https://colab.research.google.com/github/satuelisa/DBforWeb/blob/main/DBW_02.ipynb)
+
+### Session 3
+
+- [Python Colab demo](https://github.com/satuelisa/DBforWeb/blob/main/DBW_03.ipynb)
 
 ## Concepts
 
@@ -117,7 +119,11 @@ Book `D` | Book `H`
 
 ### Session 3
 
-- join: link rows of one table into rows of another table in a specific manner, usually by matching keys in one to keys in another
+- (inner) join: link rows of one table into rows of another table in a specific manner, usually by matching keys in one to keys in another
+- left join: keep all rows of the *second* table that match a row in the *first* table (those of the first one are always kept)
+- right join: keep all rows of the *first* table that match a row in the *second* table (those of the second one are always kept)
+- (full) outer join: keep the rows from both, leaving the head or the tail blank if there was no match
+- cross join: in the result, include each row of the first table combined with each row of the second table, repeating to include all combinations of the two
 
 ## Assignments
 
