@@ -69,6 +69,7 @@ Book `M` | Book `N` | Book `J`
 ### Session 3
 
 - [Python Colab demo](https://github.com/satuelisa/DBforWeb/blob/main/DBW_03.ipynb)
+- [PostgreSQL demo](https://github.com/satuelisa/DBforWeb/blob/main/joins.sql) to execute at [SQL Online IDE](https://sqliteonline.com/)
 
 ## Concepts
 
