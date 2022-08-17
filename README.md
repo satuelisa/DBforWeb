@@ -51,8 +51,8 @@ Book `M` | Book `N` | Book `J`
 
 ### Tools and documentation
 
-- [SQLite](https://sqlite.org)
-- [SQLite Command Line Interface](https://sqlite.org/cli.html)
+- S1 & S2: [SQLite](https://sqlite.org), [SQLite Command Line Interface](https://sqlite.org/cli.html)
+- S3: [SQL Online IDE](https://sqliteonline.com/)
 
 ## Example codes
 
