@@ -123,7 +123,7 @@ Book `M` | Book `N` | Book `J`
 - left join: keep all rows of the *second* table that match a row in the *first* table (those of the first one are always kept)
 - right join: keep all rows of the *first* table that match a row in the *second* table (those of the second one are always kept)
 - (full) outer join: keep the rows from both, leaving the head or the tail blank if there was no match
-- cross join: in the result, include each row of the first table combined with each row of the second table, repeating to include all combinations of the two
+- cross join: in the result, include each row of the first table combined with each row of the second table, repeating to include all combinations of the two; in math, this is called a *Cartesian product*
 
 ## Assignments
 
