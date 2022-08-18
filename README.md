@@ -66,6 +66,7 @@ Tools are listed for the session during which we first use them. Some are used a
 
 ### Session 4
 
+- [Ubuntu & VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
 - [MySQL](https://www.mysql.com/)
 - [MySQL Tutorial](https://www.mysqltutorial.org/): guides for installation and interfaces
 - [MariaDB](https://mariadb.org/)
@@ -92,6 +93,7 @@ Tools are listed for the session during which we first use them. Some are used a
 
 ### Session 4
 
+- [SQLite](https://github.com/satuelisa/DBforWeb/tree/main/sqlite)
 - [MySQL](https://github.com/satuelisa/DBforWeb/tree/main/mysql)
 - [MariaDB](https://github.com/satuelisa/DBforWeb/tree/main/mariadb)
 - [PostgreSQL](https://github.com/satuelisa/DBforWeb/tree/main/postgresql)
