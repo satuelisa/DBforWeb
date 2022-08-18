@@ -3,4 +3,5 @@
 sudo apt update
 sudo apt upgrade # update any packages already installed before adding new ones                                                           
 sudo apt install mysql-server
+# start interactive mode; type \q to quit     
 sudo mysql -u root -p # the password will be blank 
