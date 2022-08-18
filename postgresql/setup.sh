@@ -7,7 +7,7 @@ sudo systemctl start postgresql.service
 # 
 # while in, create our example DB using
 #
-#          createdb school
+#          CREATE DATABASE school;
 #
 # and then exit by typing
 #
