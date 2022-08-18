@@ -49,10 +49,29 @@ Book `M` | Book `N` | Book `J`
 - Chapter 3 of `C`: Working With Multiple Tables
 - Chapter 9 of `P`: Working With Multiple Tables And Queries
 
-### Tools and documentation
+## Tools and documentation
 
-- S1 & S2: [SQLite](https://sqlite.org), [SQLite Command Line Interface](https://sqlite.org/cli.html)
-- S3: [SQL Online IDE](https://sqliteonline.com/)
+Tools are listed for the session during which we first use them. Some are used again in later sessions.
+
+### Sessions 1 & 2
+
+- [Replit](https://replit.com/)
+- [Google Colab](https://colab.research.google.com/?)
+- [SQLite](https://sqlite.org)
+- [SQLite Command Line Interface](https://sqlite.org/cli.html)
+
+### Session 3
+
+- [SQL Online IDE](https://sqliteonline.com/)
+
+### Session 4
+
+- [MySQL](https://www.mysql.com/)
+- [MySQL Tutorial](https://www.mysqltutorial.org/): guides for installation and interfaces
+- [MariaDB](https://mariadb.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQL Server](https://www.microsoft.com/en-ca/sql-server/)
+- [SQL Server Ubuntu Quickstart](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16)
 
 ## Example codes
 
@@ -70,6 +89,13 @@ Book `M` | Book `N` | Book `J`
 
 - [Python Colab demo](https://github.com/satuelisa/DBforWeb/blob/main/DBW_03.ipynb)
 - [PostgreSQL demo](https://github.com/satuelisa/DBforWeb/blob/main/joins.sql) to execute at [SQL Online IDE](https://sqliteonline.com/)
+
+### Session 4
+
+- [MySQL](https://github.com/satuelisa/DBforWeb/tree/main/mysql)
+- [MariaDB](https://github.com/satuelisa/DBforWeb/tree/main/mariadb)
+- [PostgreSQL](https://github.com/satuelisa/DBforWeb/tree/main/postgresql)
+- [SQL Server](https://github.com/satuelisa/DBforWeb/tree/main/microsoft)
 
 ## Concepts
 
