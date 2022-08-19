@@ -74,6 +74,11 @@ Tools are listed for the session during which we first use them. Some are used a
 - [SQL Server](https://www.microsoft.com/en-ca/sql-server/)
 - [SQL Server Ubuntu Quickstart](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16)
 
+### Session 5
+
+- [NodeJS](https://nodejs.org/)
+- [HTML forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+
 ## Example codes
 
 ### Session 1
@@ -98,6 +103,10 @@ Tools are listed for the session during which we first use them. Some are used a
 - [MariaDB](https://github.com/satuelisa/DBforWeb/tree/main/mariadb)
 - [PostgreSQL](https://github.com/satuelisa/DBforWeb/tree/main/postgresql)
 - [SQL Server](https://github.com/satuelisa/DBforWeb/tree/main/microsoft)
+
+### Session 5
+
+- [NodeJS](https://github.com/satuelisa/DBforWeb/tree/main/nodejs)
 
 ## Concepts
 
