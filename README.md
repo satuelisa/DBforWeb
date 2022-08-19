@@ -79,6 +79,21 @@ Tools are listed for the session during which we first use them. Some are used a
 - [NodeJS](https://nodejs.org/)
 - [HTML forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
 
+
+### Session 6
+
+- [Python](https://www.python.org/); note that our early Colab examples use Python to connect to SQLite
+- [Create a Python webserver](https://pythonbasics.org/webserver/)
+- [Flask](https://flask.palletsprojects.com/), one of the many options for webdev in Python
+- [PHP](https://www.php.net/)
+- [PHP & MySQL](https://www.mysqltutorial.org/php-mysql/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [RoR & PostgreSQL](https://syndicode.com/blog/getting-started-with-ruby-on-rails-database-development/)
+- [Java](https://www.java.com/en/)
+- [Java & MySQL](https://netbeans.apache.org/kb/docs/web/mysql-webapp.html)
+- [Perl](https://www.perl.org/)
+- [Perl & DBI](https://www.tutorialspoint.com/perl/perl_database_access.htm)
+
 ## Example codes
 
 ### Session 1
@@ -108,7 +123,14 @@ Tools are listed for the session during which we first use them. Some are used a
 
 - [NodeJS](https://github.com/satuelisa/DBforWeb/tree/main/nodejs)
 
+### Session 6
+
+We do not use example codes in Session 6.
+
+
 ## Concepts
+
+Sessions with no concepts listed do not introduce new concepts, but rather new tools for the concepts we have encountered before.
 
 ### Session 1
 
@@ -162,6 +184,8 @@ Tools are listed for the session during which we first use them. Some are used a
 - right join: keep all rows of the *first* table that match a row in the *second* table (those of the second one are always kept)
 - (full) outer join: keep the rows from both, leaving the head or the tail blank if there was no match
 - cross join: in the result, include each row of the first table combined with each row of the second table, repeating to include all combinations of the two; in math, this is called a *Cartesian product*
+
+
 
 ## Assignments
 
