@@ -198,7 +198,7 @@ Sessions with no concepts listed do not introduce new concepts, but rather new t
 
 ### Session 7
 
-- JSON: JavaScript Object Notation (a text file describingh structured data)
+- JSON: JavaScript Object Notation (a text file describing structured data)
 
 
 ## Assignments
