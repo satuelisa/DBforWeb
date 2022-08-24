@@ -137,7 +137,7 @@ We do not use example codes in Session 6.
 - [JavaScript & JSON](https://github.com/satuelisa/DBforWeb/tree/main/example.js)
 - [An example JSON](https://github.com/satuelisa/DBforWeb/tree/main/courses.json)
 - [MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongodb)
-- [NodeJS & MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongdob/access.js)
+- [NodeJS & MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongodb/access.js)
 
 ## Concepts
 
