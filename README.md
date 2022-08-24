@@ -79,7 +79,6 @@ Tools are listed for the session during which we first use them. Some are used a
 - [NodeJS](https://nodejs.org/)
 - [HTML forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
 
-
 ### Session 6
 
 - [Python](https://www.python.org/); note that our early Colab examples use Python to connect to SQLite
@@ -93,6 +92,12 @@ Tools are listed for the session during which we first use them. Some are used a
 - [Java & MySQL](https://netbeans.apache.org/kb/docs/web/mysql-webapp.html)
 - [Perl](https://www.perl.org/)
 - [Perl & DBI](https://www.tutorialspoint.com/perl/perl_database_access.htm)
+
+### Session 7
+
+- [JSON](https://www.w3schools.com/js/js_json_intro.asp)
+- [JSON Validator](https://jsonlint.com/)
+- [BSON](https://bsonspec.org/)
 
 ## Example codes
 
@@ -127,6 +132,12 @@ Tools are listed for the session during which we first use them. Some are used a
 
 We do not use example codes in Session 6.
 
+### Session 7
+
+- [JavaScript & JSON](https://github.com/satuelisa/DBforWeb/tree/main/example.js)
+- [An example JSON](https://github.com/satuelisa/DBforWeb/tree/main/courses.json)
+- [MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongodb)
+- [NodeJS & MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongdob/access.js)
 
 ## Concepts
 
@@ -185,6 +196,9 @@ Sessions with no concepts listed do not introduce new concepts, but rather new t
 - (full) outer join: keep the rows from both, leaving the head or the tail blank if there was no match
 - cross join: in the result, include each row of the first table combined with each row of the second table, repeating to include all combinations of the two; in math, this is called a *Cartesian product*
 
+### Session 7
+
+- JSON: JavaScript Object Notation (a text file describingh structured data)
 
 
 ## Assignments

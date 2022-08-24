@@ -1,0 +1,14 @@
+{
+    "CS01" : { 
+	"title": "Webdev 101",
+	"teacher": "Elisa",
+	"weekday": "Tuesday",
+	"topics": [ "SQL", "JSON", "cloud" ]
+    },
+    "CS02": {
+	"title": "Programming",
+	"teacher": "Mathieu",
+	"weekday": "Friday",
+	    "topics": [ "Python", "recursion" ]
+    }
+}
