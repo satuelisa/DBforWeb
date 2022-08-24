@@ -1,11 +1,11 @@
 {
     "S01": {
 	"name" : "Akira",
-	"regisrations": [ "Webdev 101" ],
-	"email": "akira@cat,ca"
+	"registrations": [ "Webdev 101" ],
+	"email": "akira@cat.ca"
     },
     "S02": {
 	"name" : "Nefer",
-	"regisrations": [ "Webdev 101", "Programming" ]
+	"registrations": [ "Webdev 101", "Programming" ]
     }
 }

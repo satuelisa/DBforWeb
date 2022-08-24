@@ -98,6 +98,8 @@ Tools are listed for the session during which we first use them. Some are used a
 - [JSON](https://www.w3schools.com/js/js_json_intro.asp)
 - [JSON Validator](https://jsonlint.com/)
 - [BSON](https://bsonspec.org/)
+- [Apache Cassandra](https://cassandra.apache.org/_/index.html)
+- [`dsbulk`](https://docs.datastax.com/en/dsbulk/docs/install/dsbulkInstall.html)
 
 ## Example codes
 
@@ -138,10 +140,12 @@ We do not use example codes in Session 6.
 - [An example JSON](https://github.com/satuelisa/DBforWeb/tree/main/courses.json)
 - [MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongodb)
 - [NodeJS & MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongodb/access.js)
+- [Cassandra](https://github.com/satuelisa/DBforWeb/tree/main/cassandra)
 
 ## Concepts
 
-Sessions with no concepts listed do not introduce new concepts, but rather new tools for the concepts we have encountered before.
+Sessions with no concepts listed do not introduce new concepts, but
+rather new tools for the concepts we have encountered before.
 
 ### Session 1
 

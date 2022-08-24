@@ -9,6 +9,6 @@
 	"title": "Programming",
 	"teacher": "Mathieu",
 	"weekday": "Friday",
-	    "topics": [ "Python", "recursion" ]
+	"topics": [ "Python", "recursion" ]
     }
 }
