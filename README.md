@@ -49,6 +49,27 @@ Book `M` | Book `N` | Book `J`
 - Chapter 3 of `C`: Working With Multiple Tables
 - Chapter 9 of `P`: Working With Multiple Tables And Queries
 
+### Sessions 4 to 6
+
+See the documentation of the tools linked below.
+
+### Session 7
+
+- Chapters 1 to 5 of `M` as well as Chapter 8
+- Chapters 1 to 4 of `N`
+
+### Session 8
+
+- Chapter 1 of `J`
+
+### Session 9
+
+- Chapters 6 and 8 of `N`
+
+### Session 10
+
+- Chapter 10 of `N`
+
 ## Tools and documentation
 
 Tools are listed for the session during which we first use them. Some are used again in later sessions.
@@ -101,6 +122,11 @@ Tools are listed for the session during which we first use them. Some are used a
 - [Apache Cassandra](https://cassandra.apache.org/_/index.html)
 - [`dsbulk`](https://docs.datastax.com/en/dsbulk/docs/install/dsbulkInstall.html)
 
+### Session 8
+
+- [Neo4j](https://neo4j.com/) (pick the option for developers)
+- [Cypher](http://opencypher.org/) is the query language for Neo4j
+
 ## Example codes
 
 ### Session 1
@@ -141,6 +167,10 @@ We do not use example codes in Session 6.
 - [MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongodb)
 - [NodeJS & MongoDB](https://github.com/satuelisa/DBforWeb/tree/main/mongodb/access.js)
 - [Cassandra](https://github.com/satuelisa/DBforWeb/tree/main/cassandra)
+
+### Session 8
+
+
 
 ## Concepts
 
@@ -200,9 +230,19 @@ rather new tools for the concepts we have encountered before.
 - (full) outer join: keep the rows from both, leaving the head or the tail blank if there was no match
 - cross join: in the result, include each row of the first table combined with each row of the second table, repeating to include all combinations of the two; in math, this is called a *Cartesian product*
 
+
+### Sessions 4 to 6
+
+These focus on tools rather than concepts.
+
 ### Session 7
 
 - JSON: JavaScript Object Notation (a text file describing structured data)
+
+### Session 8
+
+- graph: a set of nodes (vertices) that may have connections (edges) between them
+- property graph: nodes and edges with associated properties
 
 
 ## Assignments
