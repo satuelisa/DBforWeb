@@ -127,6 +127,8 @@ Tools are listed for the session during which we first use them. Some are used a
 - [Neo4j](https://neo4j.com/) (pick the option for developers)
 - [Cypher](http://opencypher.org/) is the query language for Neo4j
 
+![A cypher query example](https://dist.neo4j.com/wp-content/uploads/sample-cypher.png)
+
 ## Example codes
 
 ### Session 1
@@ -170,7 +172,7 @@ We do not use example codes in Session 6.
 
 ### Session 8
 
-
+- [Neo4j](https://github.com/satuelisa/DBforWeb/tree/main/neo4j)
 
 ## Concepts
 
