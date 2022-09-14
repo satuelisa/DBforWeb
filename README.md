@@ -220,7 +220,7 @@ rather new tools for the concepts we have encountered before.
 
 - conjuntion: two conditions must be both true for the combination to be true (`and`)
 - disjunction: two conditions must both be false for the combination to be false (`or`)  
-- concatenate: combine two string into a single one: `hello` concatenated with `world` is `helloworld` 
+- concatenate: combine two strings into a single one: `hello` concatenated with `world` is `helloworld` 
 - ascending: increasing order, from lower to higher values
 - descending: decreasing order, from higher to lower values
 
