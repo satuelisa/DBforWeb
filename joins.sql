@@ -30,7 +30,7 @@ SELECT * FROM students JOIN grades USING (StudentID) ORDER BY Grade;
 SELECT * FROM students LEFT JOIN grades USING (StudentID);
 SELECT * FROM students RIGHT JOIN grades USING (StudentID);
 SELECT * FROM students FULL OUTER JOIN grades USING (StudentID); /* Note the NULL values for Elisa */
-SELECT * FROM students FULL OUTER JOIN grades USING (StudentID) WHERE Grade IS NULL; /* just Elisa now /*
+SELECT * FROM students FULL OUTER JOIN grades USING (StudentID) WHERE Grade IS NULL; /* just Elisa now */
 SELECT StudentID, FirstName, COUNT(Grade) AS total FROM students JOIN grades USING (StudentID) GROUP BY StudentID ORDER BY total DESC; /* course completions per student */
 SELECT ProgramName, COUNT(Grade) FROM students JOIN grades USING (StudentID) GROUP BY ProgramName; /* course completions per program /*
 SELECT FirstName, AVG(Grade) FROM students JOIN grades USING (StudentID) GROUP BY StudentID; /* student GPA */
