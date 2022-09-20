@@ -21,7 +21,7 @@ CREATE TABLE grades(StudentID INTEGER, Course VARCHAR(20), Grade INTEGER, PRIMAR
 
    (all this is done at the OS terminal, NOT within mysql)
 
- udo mkdir /vault
+ sudo mkdir /vault
 
    and put the files we need to access in it (like the two example
    CSVs we used for joins in Session 3)
