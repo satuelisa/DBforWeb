@@ -1,6 +1,6 @@
 /* run with
 
-     mysql --local-infile=1 -u root -p < demo.sql
+     mysql --local-infile=1 -u root -p < dump.sql
 
 to avoid typing or copypasting in interactive mode */
 
