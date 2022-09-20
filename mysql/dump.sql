@@ -5,10 +5,10 @@
 to avoid typing or copypasting in interactive mode */
 
 SHOW DATABASES;
-CREATE DATABASE school; /* only once */
+CREATE DATABASE IF NOT EXISTS school; /* only once */
 USE school; /* every time you use the database */
-CREATE TABLE students(StudentID integer, FirstName VARCHAR(20), ProgramName VARCHAR(30), primary key (StudentID));
-CREATE TABLE grades(StudentID INTEGER, Course VARCHAR(20), Grade INTEGER, PRIMARY KEY (StudentID, Course));
+CREATE TABLE IF NOT EXISTS students(StudentID integer, FirstName VARCHAR(20), ProgramName VARCHAR(30), primary key (StudentID));
+CREATE TABLE IF NOT EXISTS grades(StudentID INTEGER, Course VARCHAR(20), Grade INTEGER, PRIMARY KEY (StudentID, Course));
 
 /* 
 
