@@ -8,7 +8,7 @@ sudo systemctl start postgresql.service
 # 
 # and making sure that the postgres user owns in now by
 #
-#          sudo chown postgras:postgres -R /vault/
+#          sudo chown postgres:postgres -R /vault/
 #
 # after which we will run this as a special postgres user
 #
