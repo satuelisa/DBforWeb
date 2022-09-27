@@ -21,7 +21,7 @@ const host = 'localhost'; // if you HAVE a publicly accessible domain, feel free
 const port = 8080; // if you pick an unavailable port, you get an error
 
 // database access to an existing database (we could also create in here, of course)
-var db = new sqlite3.Database('./cats.db');
+const db = new sqlite3.Database('./cats.db');
 
 const requestListener = function (req, res) {
     switch(req.url) {
@@ -47,7 +47,7 @@ const requestListener = function (req, res) {
 		});
 	    });
 	});	    
-	break
+	break;
     case "/cats": // view the cats in the database
 	var listing = "<html><body>";	
 	db.serialize(()=>{
