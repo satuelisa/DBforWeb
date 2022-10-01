@@ -11,6 +11,7 @@ public class Test {
 	    Class.forName("org.sqlite.JDBC");
 	} catch (ClassNotFoundException e) {
 	    System.out.println("Class missing: " + e.getMessage());
+	    return;
 	}
         Connection conn = null;
         try {
