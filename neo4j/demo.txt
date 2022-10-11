@@ -1,0 +1,14 @@
+# Source: 
+# https://medium.com/neo4j/transform-mongodb-collections-automagically-into-graphs-9ea085d6e3ef
+
+CALL apoc.load.json("example.json") YIELD value
+CALL apoc.graph.fromDocument(value, {
+  write: true,
+  idField: "id",
+  mappings: { `$`: 'Person:Reader{*,@sizes}',
+              `$.books`: 'Book{!title, released}' }}) YIELD graph
+RETURN *;
+
+MATCH (n) RETURN n;
+
+MATCH (:Person:Reader {name:"Andrea"}) -[:BOOKS]-> (what) RETURN what;
